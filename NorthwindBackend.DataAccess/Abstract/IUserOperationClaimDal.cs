@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NorthwindBackend.Core.DataAccess;
+using NorthwindBackend.Core.Entities.Concrete;
 using NorthwindBackend.Entities.Concrete;
 
 namespace NorthwindBackend.DataAccess.Abstract;
